@@ -7,3 +7,9 @@
   - udemy python course
 
 - intro to parallel programming course: https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
+
+
+
+- https://github.com/christophergandrud/Rep-Res-Book
+  - Reproducible Research with R and RStudio
+
