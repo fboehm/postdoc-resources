@@ -24,3 +24,9 @@ https://www.protocols.io/
 - https://github.com/christophergandrud/Rep-Res-Book
   - Reproducible Research with R and RStudio
 
+
+### Paired programming resources
+
+https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
+
+
